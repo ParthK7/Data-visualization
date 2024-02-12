@@ -1,0 +1,7 @@
+- Creating a random distribution using R.
+- Analysis of the generated random distribution
+- Visualizing the data using Histograms and plots
+- Introducing male vs female classes in the data
+- Visualizing the different characteristics and their variance in the two genders
+- Using Mahalanobis and Euclidean distance to find the class of a given sample vector
+- Making use of plots to mark centroids and prove classification criteria
